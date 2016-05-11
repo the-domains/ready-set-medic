@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Lindsay Somers - Medical Consultant for the film & television industry'
-datePublished: '2016-05-11T19:12:19.082Z'
-dateModified: '2016-05-11T19:11:33.936Z'
+datePublished: '2016-05-11T19:14:00.407Z'
+dateModified: '2016-05-11T19:12:28.003Z'
 title: ''
 author:
   - name: ''
