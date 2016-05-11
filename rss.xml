@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ready Set Medic]]></title>
+        <description><![CDATA[Ready Set Medic]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 11 May 2016 18:04:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/49f80c07-25c4-4db5-bcd4-104ccb1ce33f.png">]]></description>
+            <link>undefinedbehind-the-scenes-remedy-207/index.html</link>
+            <guid isPermaLink="false">010b5da7-fe2e-402c-92fd-c99e40fd6b48</guid>
+            <pubDate>Wed, 11 May 2016 18:04:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
