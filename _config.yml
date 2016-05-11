@@ -1,7 +1,7 @@
 name: Ready Set Medic
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.2879277227912098
+typography_spectrum: 0.49399
 title: 'Medical consulting for the film & television industry'
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.16909620142541826
+  brandStrength: 0
   lightness: 0.6392380145844072
   saturation: 0.4797165496274829
   rhythmicContrast: 0.2716324836947024
