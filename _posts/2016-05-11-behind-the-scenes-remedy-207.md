@@ -4,11 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Behind the scenes - Remedy 207 '
-datePublished: '2016-05-11T18:04:50.386Z'
-dateModified: '2016-05-11T18:04:28.209Z'
+description: Behind the scenes - Remedy 207
+datePublished: '2016-05-11T18:52:59.618Z'
+dateModified: '2016-05-11T18:04:59.308Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-11-behind-the-scenes-remedy-207.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-11-behind-the-scenes-remedy-207.md
 url: behind-the-scenes-remedy-207/index.html
 _type: Article
 
